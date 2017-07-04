@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.8. Defining Classes Excercise\11. PokemonTrainer\bin\Debug\_11.PokemonTrainer.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.8. Defining Classes Excercise\11. PokemonTrainer\bin\Debug\_11.PokemonTrainer.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.8. Defining Classes Excercise\11. PokemonTrainer\bin\Debug\_11.PokemonTrainer.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.8. Defining Classes Excercise\11. PokemonTrainer\obj\Debug\11. PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.8. Defining Classes Excercise\11. PokemonTrainer\obj\Debug\_11.PokemonTrainer.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.8. Defining Classes Excercise\11. PokemonTrainer\obj\Debug\_11.PokemonTrainer.pdb

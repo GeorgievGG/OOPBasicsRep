@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\2.3. DefiningClasses\06. CompanyRosterMain\bin\Debug\_06.CompanyRosterMain.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\2.3. DefiningClasses\06. CompanyRosterMain\bin\Debug\_06.CompanyRosterMain.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\2.3. DefiningClasses\06. CompanyRosterMain\bin\Debug\_06.CompanyRosterMain.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\2.3. DefiningClasses\06. CompanyRosterMain\obj\Debug\06. CompanyRosterMain.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\2.3. DefiningClasses\06. CompanyRosterMain\obj\Debug\_06.CompanyRosterMain.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\2.3. DefiningClasses\06. CompanyRosterMain\obj\Debug\_06.CompanyRosterMain.pdb

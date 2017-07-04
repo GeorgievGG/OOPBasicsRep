@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.10. Defining Classes Excercise\13. FamilyTree\bin\Debug\_13.FamilyTree.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.10. Defining Classes Excercise\13. FamilyTree\obj\Debug\13. FamilyTree.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.10. Defining Classes Excercise\13. FamilyTree\bin\Debug\_13.FamilyTree.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.10. Defining Classes Excercise\13. FamilyTree\bin\Debug\_13.FamilyTree.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.10. Defining Classes Excercise\13. FamilyTree\obj\Debug\_13.FamilyTree.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.10. Defining Classes Excercise\13. FamilyTree\obj\Debug\_13.FamilyTree.pdb
