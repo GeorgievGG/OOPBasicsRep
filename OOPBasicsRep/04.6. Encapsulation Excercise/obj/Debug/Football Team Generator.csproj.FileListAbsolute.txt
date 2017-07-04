@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\04.6. Encapsulation Excercise\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\04.6. Encapsulation Excercise\bin\Debug\ConsoleApplication1.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\04.6. Encapsulation Excercise\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\04.6. Encapsulation Excercise\obj\Debug\Football Team Generator.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\04.6. Encapsulation Excercise\obj\Debug\ConsoleApplication1.exe
+C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\04.6. Encapsulation Excercise\obj\Debug\ConsoleApplication1.pdb
