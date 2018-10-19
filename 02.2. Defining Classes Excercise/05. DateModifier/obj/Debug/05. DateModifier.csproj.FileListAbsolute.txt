@@ -1,6 +1,0 @@
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.2. Defining Classes Excercise\05. DateModifier\bin\Debug\_05.DateModifier.exe.config
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.2. Defining Classes Excercise\05. DateModifier\bin\Debug\_05.DateModifier.exe
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.2. Defining Classes Excercise\05. DateModifier\bin\Debug\_05.DateModifier.pdb
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.2. Defining Classes Excercise\05. DateModifier\obj\Debug\05. DateModifier.csprojResolveAssemblyReference.cache
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.2. Defining Classes Excercise\05. DateModifier\obj\Debug\_05.DateModifier.exe
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.2. Defining Classes Excercise\05. DateModifier\obj\Debug\_05.DateModifier.pdb
