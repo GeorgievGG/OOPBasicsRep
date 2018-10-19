@@ -1,6 +1,0 @@
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.12. Defining Classes Excercise\15. DrawingTool\bin\Debug\_15.DrawingTool.exe.config
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.12. Defining Classes Excercise\15. DrawingTool\bin\Debug\_15.DrawingTool.exe
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.12. Defining Classes Excercise\15. DrawingTool\bin\Debug\_15.DrawingTool.pdb
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.12. Defining Classes Excercise\15. DrawingTool\obj\Debug\15. DrawingTool.csprojResolveAssemblyReference.cache
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.12. Defining Classes Excercise\15. DrawingTool\obj\Debug\_15.DrawingTool.exe
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\02.12. Defining Classes Excercise\15. DrawingTool\obj\Debug\_15.DrawingTool.pdb

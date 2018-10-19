@@ -1,6 +1,0 @@
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\03.1. Encapsulation Lab\01. SortPersons\bin\Debug\_01.SortPersons.exe.config
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\03.1. Encapsulation Lab\01. SortPersons\obj\Debug\01. SortPersons.csprojResolveAssemblyReference.cache
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\03.1. Encapsulation Lab\01. SortPersons\bin\Debug\_01.SortPersons.exe
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\03.1. Encapsulation Lab\01. SortPersons\bin\Debug\_01.SortPersons.pdb
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\03.1. Encapsulation Lab\01. SortPersons\obj\Debug\_01.SortPersons.exe
-C:\Users\Triple G\Desktop\Business\Softuni\3.2. OOP Basics\03.1. Encapsulation Lab\01. SortPersons\obj\Debug\_01.SortPersons.pdb
