@@ -5,6 +5,8 @@ using System.Reflection;
 
 public class PersonClass
 {
+    private const int REQUIRED_AGE_LIMIT = 30;
+
     public static void Main()
     {
         MethodInfo oldestMemberMethod = typeof(People).GetMethod("GetOldestMember");
@@ -13,20 +15,38 @@ public class PersonClass
         {
             throw new Exception();
         }
-        var incomingPeople = int.Parse(Console.ReadLine());
+
         var people = new List<Person>();
-        var newPoll = new People(people);
-        for (int i = 0; i < incomingPeople; i++)
+        var poll = new People(people);
+        AddPollMembers(poll);
+        PrintOlderPeople(people, REQUIRED_AGE_LIMIT);
+    }
+
+    private static void PrintOlderPeople(List<Person> people, int olderThan)
+    {
+        foreach (var person in people.OrderBy(x => x.Name))
         {
-            var inputArgs = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            newPoll.AddMember(inputArgs[0], int.Parse(inputArgs[1]));
-        }
-        foreach (var person in people.OrderBy(x => x.name))
-        {
-            if (person.age > 30)
+            if (person.Age > olderThan)
             {
                 Console.WriteLine(person.ToString());
             }
         }
+    }
+
+    private static void AddPollMembers(People newPoll)
+    {
+        var incomingPeople = int.Parse(Console.ReadLine());
+        for (int i = 0; i < incomingPeople; i++)
+        {
+            string[] inputArgs = ReadValues();
+            string personName = inputArgs[0];
+            int personAge = int.Parse(inputArgs[1]);
+            newPoll.AddMember(personName, personAge);
+        }
+    }
+
+    private static string[] ReadValues()
+    {
+        return Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
     }
 }
